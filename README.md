@@ -8,7 +8,7 @@
 
 # Dependencies
 * [konlpy](https://konlpy.org/en/latest)
-* [tweety](https://www.tweepy.org)
+* [tweepy](https://www.tweepy.org)
 
 ## Install
 아래의 명령어를 입력하여 스크립트 실행에 필요한 라이브러리를 설치해주십시오.
